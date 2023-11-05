@@ -21,7 +21,7 @@ pip install numpy matplotlib
 ```
 ## Installation
 Clone this repository to your local machine using the following command:
-`git clone https://github.com/your username/polynomial_regression_from_scratch.git`
+`git clone https://github.com/mouraffa/polynomial_regression_from_scratch.git`
 
 Navigate to the cloned directory: `cd polynomial_regression_from_scratch`
 
